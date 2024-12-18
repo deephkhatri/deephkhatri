@@ -8,4 +8,4 @@ Aspiring **Data Analyst** with a background in **Electronics and AI**. Skilled i
 
 Exploring **Kaggle**, contributing **notebooks**, and learning in public to grow professionally. Let's connect!
 
-📫 [LinkedIn](https://linkedin.com/in/deephkhatri) | [Twitter](https://x.com/deepinquisitive) | [Email](deep.h.khatri@gmail.com)
+📫 [LinkedIn](https://linkedin.com/in/deephkhatri) | [Twitter](https://x.com/deepinquisitive) | [Email](<mailto:deep.h.khatri@gmail.com>)
